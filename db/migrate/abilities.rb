@@ -1,7 +1,7 @@
 class CreateAbilities < ActiveRecord::Migration[5.0]
   def change
       t.string :name
-      t.string
+      t.integer :cast_time
 
       t.timestamps
 
