@@ -5,6 +5,6 @@ class CreateAbilities < ActiveRecord::Migration[5.0]
       t.integer :cast_time
 
       t.timestamps
-
+    end
   end
 end
