@@ -2,7 +2,7 @@
 
 here live the .erb files.
 
-inform what the user sees. uses "<%= %>"et.al to run additional html in the "yield" area of the layout.
+inform what the user sees. uses "<%= %>" et.al to run additional html in the "yield" area of the layout.
 
 ## layout.erb
 - this is the main template of your site
