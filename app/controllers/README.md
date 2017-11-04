@@ -13,6 +13,7 @@
 get/post/put/delete "/data_type(plural)/new_etc." do
   p "Hey, lookit the logic!!!"
   redirect someplace/useful
+  OR erb :"view/location"
 end
 ```
 
